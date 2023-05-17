@@ -55,3 +55,4 @@ spotx.tv, 135285, RESELLER, 7842df1d2fe2db34
 
 
 facebook.com, 2403290579831579, DIRECT, c3e20eee3f780d68
+facebook.com, 155679435141174, DIRECT, c3e20eee3f780d68
